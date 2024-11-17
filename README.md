@@ -1,3 +1,9 @@
+# This is an old Project
+
+I made this for the GD50 game dev course in 2021. 
+This explains the rather dry wording and inexperienced design choices i made ("^^)
+
+# original readme:
 Final Project
 Down the rabbit hole
 
